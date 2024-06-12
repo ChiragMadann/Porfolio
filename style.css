@@ -15,6 +15,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.text-container {
+  text-align: justify;
+}
+
 p {
   color: rgb(85, 85, 85);
 }
@@ -171,8 +175,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 350px;
+  width: 350px;
   margin: auto 0;
 }
 
@@ -308,9 +312,10 @@ section {
   height: 80%;
 }
 
-.section__pic-container {
-  height: 400px;
-  width: 400px;
+.section__pic-container2 {
+  display: flex;
+  height: 500px;
+  width: 500px;
   margin: auto 0;
 }
 
